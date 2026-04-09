@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="K8o1LwD9gIi86VvCV5nn">
-    <mxGraphModel dx="2357" dy="1238" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="1500" math="0" shadow="0">
+    <mxGraphModel dx="2828" dy="1486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="1500" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -189,7 +189,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FoRqHKyxum-23jX_QauM-34" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="AMAZON WEB SERVICES" vertex="1">
-          <mxGeometry height="510" width="1130" x="917" y="400" as="geometry" />
+          <mxGeometry height="500" width="1113" x="917" y="400" as="geometry" />
         </mxCell>
         <mxCell id="FoRqHKyxum-23jX_QauM-37" parent="FoRqHKyxum-23jX_QauM-34" style="swimlane;whiteSpace=wrap;html=1;startSize=43;" value="AMAZON S3" vertex="1">
           <mxGeometry height="446.5" width="517" x="13" y="43.5" as="geometry" />
